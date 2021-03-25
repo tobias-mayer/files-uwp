@@ -683,7 +683,7 @@
       <Version>4.7.5</Version>
     </PackageReference>
     <PackageReference Include="NLog.Schema">
-      <Version>4.7.5</Version>
+      <Version>4.7.9</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
